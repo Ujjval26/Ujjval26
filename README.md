@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujjval Patel</h1>
 <h3 align="center">A Passionate frontend developer & UI/UX developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://qph.fs.quoracdn.net/main-qimg-ea32077eff40123f1659f8dc332d586b">
+<img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-ea32077eff40123f1659f8dc332d586b">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ujjval26](https://github.com/Ujjval26)
 
