@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ujjval Patel</h1>
 <h3 align="center">A Passionate frontend developer & UI/UX developer</h3>
-<img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-ea32077eff40123f1659f8dc332d586b">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ujjval26](https://github.com/Ujjval26)
 
 - 📫 How to reach me **ujjvalpatel7262@gmail.com**
 
 ![Ujjval's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjval26&theme=transparent&show_icons=true&count_private=true)
+<img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-ea32077eff40123f1659f8dc332d586b">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
