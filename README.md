@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjval Patel</h1>
-<h3 align="center">A Passionate UI/UX Developer and Data Analyst</h3>
+<h3 align="center">A Passionate UI/UX Designer and Data Analyst</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ujjval26](https://github.com/Ujjval26)
 
