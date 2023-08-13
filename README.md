@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋🏻, I'm Ujjval Patel</h1>
 <h3 align="center">A Passionate UI/UX Designer and Data Analyst</h3>
 
-- 👨‍💻 Visit my Portfolio [**Ujjval-Portfolio**](https://ujjval-portfolio.vercel.app/).
+- 💼 Visit my Portfolio [**Ujjval-Portfolio**](https://ujjval-portfolio.vercel.app/).
 - 👨‍💻 Checkout my Projects [**Behance**](https://www.behance.net/ujjvalpatel).
 - 😀 Checkout my Linkedin Profile [**Linkedin**](https://www.linkedin.com/in/ujjval-patel777/).
-- 📫 How to reach me [**ujjvalpatel7262@gmail.com**](mailto:ujjvalpatel7262@gmail.com)
+- 📧 How to reach me [**ujjvalpatel7262@gmail.com**](mailto:ujjvalpatel7262@gmail.com)
 
 ![Ujjval's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjval26&theme=transparent&show_icons=true&count_private=true)
 
